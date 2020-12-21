@@ -33,4 +33,4 @@ export const users = [{
     "email": null,
     "isAdmin": false,
     "twoots": []
-}]
+}];
